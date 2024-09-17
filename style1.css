@@ -1,0 +1,27 @@
+#bio {
+    background-color: #9d5353;
+    text-align: center;
+}
+img {
+    border-radius: 90000px;
+}
+#about {
+    background-color: #92968d;
+}
+#work {
+    background-color:#bfb4b4;
+
+}
+.project {
+    text-align: center;
+    width:200px;
+    height: 200px;
+    line-height: 200px;
+    margin: 10px;
+    border: 10px;
+    display: inline-block;
+    border: solid black;
+}
+body {
+    background-color: rgb(184, 187, 188);
+}
